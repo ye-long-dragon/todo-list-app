@@ -1,0 +1,30 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A Basic Todo List App Written with NodeJs and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ye-long-dragon/todo-list-app.git"
+  },
+  "keywords": [
+    "\"Todo",
+    "List\"",
+    "\"App\""
+  ],
+  "author": "Vince Lawrence V. Baraclan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ye-long-dragon/todo-list-app/issues"
+  },
+  "homepage": "https://github.com/ye-long-dragon/todo-list-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
