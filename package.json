@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "A Basic Todo List App Written with NodeJs and Express",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
